@@ -23,7 +23,7 @@ function App() {
       </main>
 
       <footer style={{ textAlign: "center", marginTop: "40px", color: "#888" }}>
-        <p>© 2025 AI Club 社团 | Powered by React + Vite</p>
+        <p>© 2025 AI Club 社团 | Rymascot</p>
       </footer>
     </div>
   );
